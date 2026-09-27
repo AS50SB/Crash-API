@@ -15,4 +15,4 @@ A Python lib to crash your program.
  - tkinter.messagebox
  - datetime  
 ***These depends was import in this Python file.***
-You can edit this lib and use it in your project,but the project must open-src
+You can edit this lib to use it in your project,but the project must open-src
